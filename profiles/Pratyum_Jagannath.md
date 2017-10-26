@@ -6,7 +6,7 @@ Singapore
 
 ### Academics
 
-Undergraduated in Computer Engineering.
+Undergraduate in Computer Engineering.
 
 ### Interests
 
