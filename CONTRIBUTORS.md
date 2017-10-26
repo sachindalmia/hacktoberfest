@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Sachin Dalmia](https://github.com/sachindalmia)
+- Place: Singapore
+- Bio: Because I Observe. "B" "I' "O"
+- GitHub: [sachindalmia](https://github.com/sachindalmia)
